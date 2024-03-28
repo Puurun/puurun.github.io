@@ -1,6 +1,6 @@
 ---
 title: Factory Method
-date: 2024-03-28 0250:00
+date: 2024-03-28 02:50:00
 categories: [Design Patterns]
 tags: [design-patterns, factory]
 ---
